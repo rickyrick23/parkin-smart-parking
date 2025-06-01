@@ -1,0 +1,5 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Parkin</string>
+    <string name="default_web_client_id">643239895096-c86f17c44f97kuvo8g76fq9udkp32m46.apps.googleusercontent.com</string>
+</resources>

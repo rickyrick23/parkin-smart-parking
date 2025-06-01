@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643239895096",
+    "project_id": "parkin-38755",
+    "storage_bucket": "parkin-38755.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643239895096:android:e2c7075e99e5f7025686cd",
+        "android_client_info": {
+          "package_name": "com.example.parkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643239895096-c86f17c44f97kuvo8g76fq9udkp32m46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq3o09oXVup9tzWX9rJTIJNi30UcZVRng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643239895096-c86f17c44f97kuvo8g76fq9udkp32m46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
